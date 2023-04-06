@@ -8,34 +8,34 @@ The design layout is provided below.
 
 ## 3D Model:
 
-![3D_Top](3D_Top.png)
+![3D_Top](./assets/3D_Top.png)
 
-![3D_Bottom](3D_Bottom.png)
+![3D_Bottom](./assets/3D_Bottom.png)
 
 
 ## Schematic Design:
 
-![schematics_1](schematics_root.png)
+![schematics_1](./assets/schematics_root.png)
 
-![schematics encoder](schematics_encoder.png)
+![schematics encoder](./assets/schematics_encoder.png)
 
-![schematics can bus](schematics_can-bus.png)
+![schematics can bus](./assets/schematics_can-bus.png)
 
-![schematics drv8323](schematics_drv8323.png)
+![schematics drv8323](./assets/schematics_drv8323.png)
 
-![schematics miscellenous](schematics_temp-sensor.png)
+![schematics miscellenous](./assets/schematics_temp-sensor.png)
 
 
 ## PCB Layers:
 
 ### All Layers
 
-![all layers](pcb_all.png)
+![all layers](./assets/pcb_all.png)
 
-![top layer](pcb_fcu.png)
+![top layer](./assets/pcb_fcu.png)
 
-![pwr layer](pcb_pwr.png)
+![pwr layer](./assets/pcb_pwr.png)
 
-![gnd layer](pcb_gnd.png)
+![gnd layer](./assets/pcb_gnd.png)
 
-![bottom layer](pcb_bcu.png)
+![bottom layer](./assets/pcb_bcu.png)
